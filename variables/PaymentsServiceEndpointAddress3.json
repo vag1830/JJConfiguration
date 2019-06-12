@@ -1,1 +1,0 @@
-{"Name":"PaymentsServiceEndpointAddress3","Value":"https://www.qa.betson.com/paymentsservice","Overrides":{"WalletEndpointAddress.qa.betsson.desktop":"https://xxx.betsson.bde.com/walletservice","WalletEndpointAddress.qa.betsafe.desktop":"https://xxx.betsafe.bde.com/walletservice"}}
